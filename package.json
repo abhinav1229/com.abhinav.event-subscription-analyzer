@@ -1,5 +1,5 @@
 {
-    "name": "com.yourusername.event-subscription-analyzer",
+    "name": "com.abhinav.event-subscription-analyzer",
     "version": "1.0.0",
     "displayName": "Event Subscription Analyzer",
     "description": "An editor window utility to scan C# scripts for event subscription leaks and lifecycle mismatch bugs.",
